@@ -3,7 +3,7 @@
 #0x0001
 __the web and books:__  
 
-_廖雪峰_：`http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431643484137e38b44e5925440ec8b1e4c70f800b4e2000`
+[liaoxuefeng](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431643484137e38b44e5925440ec8b1e4c70f800b4e2000)
   
-_BOOKS_： `https://github.com/python95`
+[BOOKS] (https://github.com/python95)
 
