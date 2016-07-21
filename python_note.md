@@ -1,5 +1,5 @@
 ##python-notes
-_just for fun_  
+_just for newer_  
 > Beautiful is better than ugly.
   
 > Explicit is better than implicit.
